@@ -1,6 +1,6 @@
 # Trabajo Arquitectura Paralelas
 ## Grado en Ingeniería Informática, Universidad de Córdoba
-###OpenCL en Android
+### OpenCL en Android
 
 ---
 
